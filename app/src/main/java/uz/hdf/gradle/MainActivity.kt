@@ -18,3 +18,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+/// GITHUB da loyihalar yaratish va boshqarish
